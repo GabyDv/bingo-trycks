@@ -2,6 +2,8 @@
 
 Un sistema de bingo web **editable y reutilizable** para cualquier contexto (anime, streams, eventos, clases, política, lo que sea).
 
+> **Nota**: Sistema 100% offline, funciona completamente sin conexión a internet.
+
 ## ✨ Características
 
 - 🎨 **Totalmente personalizable**: Define tus propias palabras/situaciones
