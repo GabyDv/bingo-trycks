@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  // Base path para GitHub Pages (usa el nombre de tu repositorio)
-  base: '/bingo-trycks/',
+  // Base path: '/' para Vercel/Netlify, '/bingo-trycks/' para GitHub Pages
+  base: '/',
 })
